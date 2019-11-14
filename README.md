@@ -3,7 +3,7 @@ Contains all empirically evaluated models and results for the paper SMT-Based Va
 
 ## Models
 
-All used model can be found at [FeatureIDE](https://github.com/FeatureIDE/FeatureIDE):
+All used systems were evaluated via [FeatureIDE](https://github.com/FeatureIDE/FeatureIDE).
 
 ### Models for the FM Anaylses
 
